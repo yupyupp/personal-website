@@ -1,0 +1,1264 @@
+%PDF-1.3
+%âãÏÓ
+
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R>>
+endobj
+2 0 obj
+<< /Type /Outlines >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+14 0 R
+19 0 R
+31 0 R
+]
+/Count 4
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 10 0 R
+/F3 25 0 R
+/F4 30 0 R >>
+>>
+/MediaBox [0 0 612.0 792.0]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/CreationDate (D:201405301732)
+/Creator (coe-portal)
+/Producer (PDF::Writer for Ruby)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+7 0 R
+11 0 R
+12 0 R
+13 0 R
+]
+>>
+endobj
+7 0 obj
+<<
+/Length 4042 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 36.000 735.912 Td /F2 18.0 Tf 0 Tr (ECE 2100: Electrical and Computer Engineering II) Tj ET
+BT 36.000 703.912 Td /F2 14.0 Tf 0 Tr (Course Description) Tj ET
+BT 36.000 689.912 Td /F1 12.0 Tf 0 Tr (Introduction to the theory and practice of discrete systems using difference equations and z-transforms, and ) Tj ET
+BT 36.000 675.912 Td /F1 12.0 Tf 0 Tr (analog systems using differential equations and Laplace transforms.) Tj ET
+BT 36.000 651.912 Td /F2 12.0 Tf 0 Tr (Transcript Abbreviation:) Tj /F1 12.0 Tf 0 Tr ( ECE 2) Tj ET
+BT 36.000 638.520 Td /F2 12.0 Tf 0 Tr (Grading Plan:) Tj /F1 12.0 Tf 0 Tr ( Letter Grade) Tj ET
+BT 36.000 625.128 Td /F2 12.0 Tf 0 Tr (Course Deliveries:) Tj /F1 12.0 Tf 0 Tr ( Classroom) Tj ET
+BT 36.000 611.736 Td /F2 12.0 Tf 0 Tr (Course Levels:) Tj /F1 12.0 Tf 0 Tr ( Undergrad) Tj ET
+BT 36.000 598.344 Td /F2 12.0 Tf 0 Tr (Student Ranks:) Tj /F1 12.0 Tf 0 Tr ( Sophomore) Tj ET
+BT 36.000 584.952 Td /F2 12.0 Tf 0 Tr (Course Offerings:) Tj /F1 12.0 Tf 0 Tr ( Autumn, Spring) Tj ET
+BT 36.000 571.560 Td /F2 12.0 Tf 0 Tr (Flex Scheduled Course:) Tj /F1 12.0 Tf 0 Tr ( Never) Tj ET
+BT 36.000 558.168 Td /F2 12.0 Tf 0 Tr (Course Frequency:) Tj /F1 12.0 Tf 0 Tr ( Every Year) Tj ET
+BT 36.000 544.776 Td /F2 12.0 Tf 0 Tr (Course Length:) Tj /F1 12.0 Tf 0 Tr ( 14 Week) Tj ET
+BT 36.000 531.384 Td /F2 12.0 Tf 0 Tr (Credits:) Tj /F1 12.0 Tf 0 Tr ( 4.0) Tj ET
+BT 36.000 517.992 Td /F2 12.0 Tf 0 Tr (Repeatable:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 504.600 Td /F2 12.0 Tf 0 Tr (Time Distribution:) Tj /F1 12.0 Tf 0 Tr ( 2.0 hr Lec, 1.0 hr Rec, 3.0 hr Lab) Tj ET
+BT 36.000 491.208 Td /F2 12.0 Tf 0 Tr (Expected out-of-class hours per week:) Tj /F1 12.0 Tf 0 Tr ( 6.0) Tj ET
+BT 36.000 477.816 Td /F2 12.0 Tf 0 Tr (Graded Component:) Tj /F1 12.0 Tf 0 Tr ( Lecture) Tj ET
+BT 36.000 464.424 Td /F2 12.0 Tf 0 Tr (Credit by Examination:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 451.032 Td /F2 12.0 Tf 0 Tr (Admission Condition:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 437.640 Td /F2 12.0 Tf 0 Tr (Off Campus:) Tj /F1 12.0 Tf 0 Tr ( Never) Tj ET
+BT 36.000 424.248 Td /F2 12.0 Tf 0 Tr (Campus Locations:) Tj /F1 12.0 Tf 0 Tr ( Columbus, Lima, Marion) Tj ET
+BT 36.000 410.856 Td /F2 12.0 Tf 0 Tr (Prerequisites and Co-requisites:) Tj /F1 12.0 Tf 0 Tr ( Prereq: 2000 or 2000.03, or 2004 and 2017.) Tj ET
+BT 36.000 397.464 Td /F2 12.0 Tf 0 Tr (Exclusions:) Tj /F1 12.0 Tf 0 Tr ( Not open to students with credit for 2100.01, 2100.02, 2100.04, 2100.06, 2100.07, 2100.08, 2104, ) Tj ET
+BT 36.000 384.072 Td /F1 12.0 Tf 0 Tr (2105, 2106, 2117, 2127, 2300, 205, 209, 291, 292, 294.02, 294.03, 301, or 351.) Tj ET
+BT 36.000 370.680 Td /F2 12.0 Tf 0 Tr (Cross-Listings:) Tj /F1 12.0 Tf 0 Tr ( ) Tj ET
+BT 36.000 346.680 Td /F2 12.0 Tf 0 Tr (Course Rationale:) Tj /F1 12.0 Tf 0 Tr ( Existing course.) Tj ET
+BT 36.000 322.680 Td /F2 12.0 Tf 0 Tr (The course is required for this unit's degrees, majors, and/or minors:) Tj /F1 12.0 Tf 0 Tr ( Yes) Tj ET
+BT 36.000 309.288 Td /F2 12.0 Tf 0 Tr (The course is a GEC:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 295.896 Td /F2 12.0 Tf 0 Tr (The course is an elective \(for this or other units\) or is a service course for other units:) Tj /F1 12.0 Tf 0 Tr ( Yes) Tj ET
+BT 36.000 271.896 Td /F2 12.0 Tf 0 Tr (Subject/CIP Code:) Tj /F1 12.0 Tf 0 Tr ( 14.1001) Tj ET
+BT 36.000 258.504 Td /F2 12.0 Tf 0 Tr (Subsidy Level:) Tj /F1 12.0 Tf 0 Tr ( Baccalaureate Course) Tj ET
+BT 36.000 226.504 Td /F2 14.0 Tf 0 Tr (Programs) Tj ET
+BT 36.000 214.504 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 194.932 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 162.432 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 132.612 Td /F2 14.0 Tf 0 Tr (Course Goals) Tj ET
+BT 36.000 120.612 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.900 0.900 0.900 rg
+36.000 103.272 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 72.952 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 42.632 540.000 15.160 re f
+1 w
+Q
+endstream
+endobj
+
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Bold
+/Encoding 9 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 118 >>
+stream
+
+BT 41.000 199.112 Td /F2 12.0 Tf 0 Tr (Abbreviation) Tj ET
+BT 299.195 199.112 Td /F2 12.0 Tf 0 Tr (Description) Tj ET
+endstream
+endobj
+
+12 0 obj
+<<
+/Length 596 >>
+stream
+
+BT 41.000 181.772 Td /F1 10.0 Tf 0 Tr (CpE) Tj ET
+BT 299.195 181.772 Td /F1 10.0 Tf 0 Tr (Computer Engineering) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 192.752 m
+576.000 192.752 l S
+1 w
+Q
+BT 41.000 166.612 Td /F1 10.0 Tf 0 Tr (EE) Tj ET
+BT 299.195 166.612 Td /F1 10.0 Tf 0 Tr (Electrical Engineering) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 177.592 m
+576.000 177.592 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 214.504 m
+36.000 162.432 l S
+1 w
+294.195 214.504 m
+294.195 162.432 l S
+1 w
+576.000 214.504 m
+576.000 162.432 l S
+35.500 214.504 m
+576.500 214.504 l S
+35.500 162.432 m
+576.500 162.432 l S
+endstream
+endobj
+
+13 0 obj
+<<
+/Length 1149 >>
+stream
+
+BT 41.000 107.452 Td /F1 10.0 Tf 0 Tr (Learn how to analyze, design and implement simple IIR filters based on difference equations) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 118.432 m
+576.000 118.432 l S
+1 w
+Q
+BT 41.000 92.292 Td /F1 10.0 Tf 0 Tr (Learn circuit concepts such as voltage, current, charge, inductors, capacitors etc.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 103.272 m
+576.000 103.272 l S
+1 w
+Q
+BT 41.000 77.132 Td /F1 10.0 Tf 0 Tr (Learn how to analyze, design and implement  circuits using Ohm?s Law, Kirchhoff?s law and superposition) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 88.112 m
+576.000 88.112 l S
+1 w
+Q
+BT 41.000 61.972 Td /F1 10.0 Tf 0 Tr (Learn Phasor Domain techniques) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 72.952 m
+576.000 72.952 l S
+1 w
+Q
+BT 41.000 46.812 Td /F1 10.0 Tf 0 Tr (Learn to analyze, design and implement steady state and transient behavior of RC, RL, RLC circuits) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 57.792 m
+576.000 57.792 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 118.432 m
+36.000 42.632 l S
+576.000 118.432 m
+576.000 42.632 l S
+35.500 118.432 m
+576.500 118.432 l S
+35.500 42.632 m
+576.500 42.632 l S
+endstream
+endobj
+
+14 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+15 0 R
+16 0 R
+17 0 R
+18 0 R
+]
+>>
+endobj
+15 0 obj
+<<
+/Length 1189 >>
+stream
+
+1 w
+q
+q
+0.900 0.900 0.900 rg
+36.000 723.500 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 693.180 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 662.860 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 632.540 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 602.720 Td /F2 14.0 Tf 0 Tr (Course Topics) Tj ET
+BT 36.000 590.720 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 571.148 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 527.488 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 497.168 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 466.848 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 425.368 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 383.888 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 353.568 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 312.088 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 270.608 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 240.288 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 187.648 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 146.168 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 115.848 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 85.528 540.000 15.160 re f
+1 w
+Q
+Q
+endstream
+endobj
+
+16 0 obj
+<<
+/Length 1660 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 41.000 742.840 Td /F1 10.0 Tf 0 Tr (Learn to analyze, design and synthesize elementary FIR \(Finite Impulse Response\) discrete filters.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 753.820 m
+576.000 753.820 l S
+1 w
+Q
+BT 41.000 727.680 Td /F1 10.0 Tf 0 Tr (Learn Laplace and Fourier Transform techniques) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 738.660 m
+576.000 738.660 l S
+1 w
+Q
+BT 41.000 712.520 Td /F1 10.0 Tf 0 Tr (Learn to analyze, design and implement simple active filters based on ideal Op amps) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 723.500 m
+576.000 723.500 l S
+1 w
+Q
+BT 41.000 697.360 Td /F1 10.0 Tf 0 Tr (Learn how to use modern computer tools for digital design, verification and simulation) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 708.340 m
+576.000 708.340 l S
+1 w
+Q
+BT 41.000 682.200 Td /F1 10.0 Tf 0 Tr (Learn how to implement design schematics to hardware using modern FPGAs) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 693.180 m
+576.000 693.180 l S
+1 w
+Q
+BT 41.000 667.040 Td /F1 10.0 Tf 0 Tr (Learn methodology for critical troubleshooting skills) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 678.020 m
+576.000 678.020 l S
+1 w
+Q
+BT 41.000 651.880 Td /F1 10.0 Tf 0 Tr (Learn reporting standards) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 662.860 m
+576.000 662.860 l S
+1 w
+Q
+BT 41.000 636.720 Td /F1 10.0 Tf 0 Tr (Learn how to use laboratory instruments and laboratory methodology) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 647.700 m
+576.000 647.700 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 753.820 m
+36.000 632.540 l S
+576.000 753.820 m
+576.000 632.540 l S
+35.500 753.820 m
+576.500 753.820 l S
+35.500 632.540 m
+576.500 632.540 l S
+endstream
+endobj
+
+17 0 obj
+<<
+/Length 458 >>
+stream
+
+BT 41.000 575.328 Td /F2 12.0 Tf 0 Tr (Topic) Tj ET
+BT 301.000 575.328 Td /F2 12.0 Tf 0 Tr (Lec) Tj ET
+BT 336.000 575.328 Td /F2 12.0 Tf 0 Tr (Rec) Tj ET
+BT 371.000 575.328 Td /F2 12.0 Tf 0 Tr (Lab) Tj ET
+BT 406.000 575.328 Td /F2 12.0 Tf 0 Tr (Cli) Tj ET
+BT 441.000 575.328 Td /F2 12.0 Tf 0 Tr (IS) Tj ET
+BT 476.000 575.328 Td /F2 12.0 Tf 0 Tr (Sem) Tj ET
+BT 511.000 575.328 Td /F2 12.0 Tf 0 Tr (FE) Tj ET
+BT 546.000 575.328 Td /F2 12.0 Tf 0 Tr (Wor) Tj ET
+endstream
+endobj
+
+18 0 obj
+<<
+/Length 6781 >>
+stream
+
+BT 41.000 557.988 Td /F1 10.0 Tf 0 Tr (Frequency Response, Magnitude and Phase Response of ) Tj ET
+BT 41.000 546.828 Td /F1 10.0 Tf 0 Tr (Discrete Systems) Tj ET
+BT 307.250 557.988 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 568.968 m
+576.000 568.968 l S
+1 w
+Q
+BT 41.000 531.668 Td /F1 10.0 Tf 0 Tr (Lowpass, highpass and bandpass discrete filters) Tj ET
+BT 307.250 531.668 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 542.648 m
+576.000 542.648 l S
+1 w
+Q
+BT 41.000 516.508 Td /F1 10.0 Tf 0 Tr (FIR filters, implementation of FIR filters) Tj ET
+BT 307.250 516.508 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 527.488 m
+576.000 527.488 l S
+1 w
+Q
+BT 41.000 501.348 Td /F1 10.0 Tf 0 Tr (IIR  filters, difference equations) Tj ET
+BT 307.250 501.348 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 512.328 m
+576.000 512.328 l S
+1 w
+Q
+BT 41.000 486.188 Td /F1 10.0 Tf 0 Tr (Charge, current, voltage, power, circuit elements) Tj ET
+BT 307.250 486.188 Td /F1 10.0 Tf 0 Tr (1.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 497.168 m
+576.000 497.168 l S
+1 w
+Q
+BT 41.000 471.028 Td /F1 10.0 Tf 0 Tr (Ohms law, Kirchoffs laws  KCL, KVL) Tj ET
+BT 307.250 471.028 Td /F1 10.0 Tf 0 Tr (1.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 482.008 m
+576.000 482.008 l S
+1 w
+Q
+BT 41.000 455.868 Td /F1 10.0 Tf 0 Tr (Nodal, mesh, Thevenin, Norton, superposition, maximum ) Tj ET
+BT 41.000 444.708 Td /F1 10.0 Tf 0 Tr (power transfer) Tj ET
+BT 307.250 455.868 Td /F1 10.0 Tf 0 Tr (4.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 466.848 m
+576.000 466.848 l S
+1 w
+Q
+BT 41.000 429.548 Td /F1 10.0 Tf 0 Tr (RC and RL first-order circuits, natural and total response) Tj ET
+BT 307.250 429.548 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 440.528 m
+576.000 440.528 l S
+1 w
+Q
+BT 41.000 414.388 Td /F1 10.0 Tf 0 Tr (General solution of second-order circuits) Tj ET
+BT 307.250 414.388 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 425.368 m
+576.000 425.368 l S
+1 w
+Q
+BT 41.000 399.228 Td /F1 10.0 Tf 0 Tr (Phasor domain analysis, impedance transformations, average ) Tj ET
+BT 41.000 388.068 Td /F1 10.0 Tf 0 Tr (and complex power) Tj ET
+BT 307.250 399.228 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 410.208 m
+576.000 410.208 l S
+1 w
+Q
+BT 41.000 372.908 Td /F1 10.0 Tf 0 Tr (RC, RL, RLC frequency response vs transient response) Tj ET
+BT 307.250 372.908 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 383.888 m
+576.000 383.888 l S
+1 w
+Q
+BT 41.000 357.748 Td /F1 10.0 Tf 0 Tr (Bode Plots) Tj ET
+BT 307.250 357.748 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 368.728 m
+576.000 368.728 l S
+1 w
+Q
+BT 41.000 342.588 Td /F1 10.0 Tf 0 Tr (Ideal op amp, active filters, cascaded active filters) Tj ET
+BT 307.250 342.588 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 353.568 m
+576.000 353.568 l S
+1 w
+Q
+BT 41.000 327.428 Td /F1 10.0 Tf 0 Tr (Laplace transforms, properties, pole  zero diagrams and ) Tj ET
+BT 41.000 316.268 Td /F1 10.0 Tf 0 Tr (inverse Laplace transform) Tj ET
+BT 307.250 327.428 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 338.408 m
+576.000 338.408 l S
+1 w
+Q
+BT 41.000 301.108 Td /F1 10.0 Tf 0 Tr (Scaling properties, initial and final value theorems) Tj ET
+BT 307.250 301.108 Td /F1 10.0 Tf 0 Tr (1.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 312.088 m
+576.000 312.088 l S
+1 w
+Q
+BT 41.000 285.948 Td /F1 10.0 Tf 0 Tr (System transfer function  impulse response, step response, ) Tj ET
+BT 41.000 274.788 Td /F1 10.0 Tf 0 Tr (sinusoidal response) Tj ET
+BT 307.250 285.948 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 296.928 m
+576.000 296.928 l S
+1 w
+Q
+BT 41.000 259.628 Td /F1 10.0 Tf 0 Tr (Convolution integral) Tj ET
+BT 307.250 259.628 Td /F1 10.0 Tf 0 Tr (1.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 270.608 m
+576.000 270.608 l S
+1 w
+Q
+BT 41.000 244.468 Td /F1 10.0 Tf 0 Tr (Fourier fransform, Fourier transform pairs) Tj ET
+BT 307.250 244.468 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 255.448 m
+576.000 255.448 l S
+1 w
+Q
+BT 41.000 229.308 Td /F1 10.0 Tf 0 Tr (Implementing an FIR nulling digital filter, comparing to ) Tj ET
+BT 41.000 218.148 Td /F1 10.0 Tf 0 Tr (MATLAB) Tj ET
+BT 377.250 229.308 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 240.288 m
+576.000 240.288 l S
+1 w
+Q
+BT 41.000 202.988 Td /F1 10.0 Tf 0 Tr (Designing and implementing a single pole slow pass filter ) Tj ET
+BT 41.000 191.828 Td /F1 10.0 Tf 0 Tr (and imoproving the design by adding a zero.) Tj ET
+BT 377.250 202.988 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 213.968 m
+576.000 213.968 l S
+1 w
+Q
+BT 41.000 176.668 Td /F1 10.0 Tf 0 Tr (Building a DC-coupled digital-to-analog converter based on ) Tj ET
+BT 41.000 165.508 Td /F1 10.0 Tf 0 Tr (pulse wave modulation) Tj ET
+BT 377.250 176.668 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 187.648 m
+576.000 187.648 l S
+1 w
+Q
+BT 41.000 150.348 Td /F1 10.0 Tf 0 Tr (Controlling the speed of a DC motor) Tj ET
+BT 377.250 150.348 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 161.328 m
+576.000 161.328 l S
+1 w
+Q
+BT 41.000 135.188 Td /F1 10.0 Tf 0 Tr (Brushless DC motors and quadrature signals) Tj ET
+BT 377.250 135.188 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 146.168 m
+576.000 146.168 l S
+1 w
+Q
+BT 41.000 120.028 Td /F1 10.0 Tf 0 Tr (Multisim simulation of analog circuits) Tj ET
+BT 377.250 120.028 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 131.008 m
+576.000 131.008 l S
+1 w
+Q
+BT 41.000 104.868 Td /F1 10.0 Tf 0 Tr (Building circuits based on resistors and capacitors) Tj ET
+BT 377.250 104.868 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 115.848 m
+576.000 115.848 l S
+1 w
+Q
+BT 41.000 89.708 Td /F1 10.0 Tf 0 Tr (Active circuits based on op amps) Tj ET
+BT 377.250 89.708 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 100.688 m
+576.000 100.688 l S
+1 w
+Q
+BT 41.000 74.548 Td /F1 10.0 Tf 0 Tr (Building more advanced active circuits based on op amps) Tj ET
+BT 377.250 74.548 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 85.528 m
+576.000 85.528 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 590.720 m
+36.000 70.368 l S
+1 w
+296.000 590.720 m
+296.000 70.368 l S
+331.000 590.720 m
+331.000 70.368 l S
+366.000 590.720 m
+366.000 70.368 l S
+401.000 590.720 m
+401.000 70.368 l S
+436.000 590.720 m
+436.000 70.368 l S
+471.000 590.720 m
+471.000 70.368 l S
+506.000 590.720 m
+506.000 70.368 l S
+541.000 590.720 m
+541.000 70.368 l S
+1 w
+576.000 590.720 m
+576.000 70.368 l S
+35.500 590.720 m
+576.500 590.720 l S
+35.500 70.368 m
+576.500 70.368 l S
+endstream
+endobj
+
+19 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+20 0 R
+21 0 R
+22 0 R
+23 0 R
+26 0 R
+27 0 R
+28 0 R
+29 0 R
+]
+>>
+endobj
+20 0 obj
+<<
+/Length 2193 >>
+stream
+
+0.000 0.000 0.000 rg
+0.900 0.900 0.900 RG
+1 w
+q
+1 w
+q
+q
+0.900 0.900 0.900 rg
+36.000 685.608 540.000 48.640 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 655.788 Td /F2 14.0 Tf 0 Tr (Grades) Tj ET
+BT 36.000 643.788 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 624.216 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 591.716 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 561.396 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 516.416 Td /F2 14.0 Tf 0 Tr (Representative Textbooks and Other Course Materials) Tj ET
+BT 36.000 504.416 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 484.844 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 452.344 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 422.524 Td /F2 14.0 Tf 0 Tr (ABET-EAC Criterion 3 Outcomes) Tj ET
+BT 36.000 410.524 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 390.952 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 358.452 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 328.132 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 297.812 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 256.332 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 226.012 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 169.872 Td /F2 14.0 Tf 0 Tr (Additional Notes or Comments) Tj ET
+BT 36.000 155.872 Td /F4 10.0 Tf 0 Tr (Changed grading weights; changed "Homework" to "Quizzes and Homework;" changed "Lab ) Tj ET
+BT 36.000 141.872 Td /F4 10.0 Tf 0 Tr (evaluations" to "Lab reports." Delete "their" from course goal. Change "Eeements" to ) Tj ET
+BT 36.000 127.872 Td /F4 10.0 Tf 0 Tr ("elements, "Ppots" to "plots, "filter" to "filters" in course topics. 
+) Tj ET
+BT 36.000 113.872 Td /F4 10.0 Tf 0 Tr (Updated text info, 4/4/13, CED
+) Tj ET
+BT 36.000 99.872 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 85.872 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 71.872 Td /F4 10.0 Tf 0 Tr (Add recitation and make it graded component 2/14/12
+) Tj ET
+BT 36.000 57.872 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 43.872 Td /F4 10.0 Tf 0 Tr (Changed "Prereqs" to "Prereq" per request of registrar 2/24/12
+) Tj ET
+Q
+Q
+endstream
+endobj
+
+21 0 obj
+<<
+/Length 1992 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 41.000 740.608 Td /F2 12.0 Tf 0 Tr (Topic) Tj ET
+BT 301.000 740.608 Td /F2 12.0 Tf 0 Tr (Lec) Tj ET
+BT 336.000 740.608 Td /F2 12.0 Tf 0 Tr (Rec) Tj ET
+BT 371.000 740.608 Td /F2 12.0 Tf 0 Tr (Lab) Tj ET
+BT 406.000 740.608 Td /F2 12.0 Tf 0 Tr (Cli) Tj ET
+BT 441.000 740.608 Td /F2 12.0 Tf 0 Tr (IS) Tj ET
+BT 476.000 740.608 Td /F2 12.0 Tf 0 Tr (Sem) Tj ET
+BT 511.000 740.608 Td /F2 12.0 Tf 0 Tr (FE) Tj ET
+BT 546.000 740.608 Td /F2 12.0 Tf 0 Tr (Wor) Tj ET
+0.800 0.800 0.800 rg
+36.000 736.428 540.000 19.572 re f
+0.000 0.000 0.000 rg
+BT 41.000 740.608 Td /F2 12.0 Tf 0 Tr (Topic) Tj ET
+BT 301.000 740.608 Td /F2 12.0 Tf 0 Tr (Lec) Tj ET
+BT 336.000 740.608 Td /F2 12.0 Tf 0 Tr (Rec) Tj ET
+BT 371.000 740.608 Td /F2 12.0 Tf 0 Tr (Lab) Tj ET
+BT 406.000 740.608 Td /F2 12.0 Tf 0 Tr (Cli) Tj ET
+BT 441.000 740.608 Td /F2 12.0 Tf 0 Tr (IS) Tj ET
+BT 476.000 740.608 Td /F2 12.0 Tf 0 Tr (Sem) Tj ET
+BT 511.000 740.608 Td /F2 12.0 Tf 0 Tr (FE) Tj ET
+BT 546.000 740.608 Td /F2 12.0 Tf 0 Tr (Wor) Tj ET
+BT 41.000 723.268 Td /F1 10.0 Tf 0 Tr (Building active filters using op amps on a breadboard; high-) Tj ET
+BT 41.000 712.108 Td /F1 10.0 Tf 0 Tr (pass and low-pass, second order Bessel filters, observe the ) Tj ET
+BT 41.000 700.948 Td /F1 10.0 Tf 0 Tr (effects of these filter on sound from an electronic music ) Tj ET
+BT 41.000 689.788 Td /F1 10.0 Tf 0 Tr (source) Tj ET
+BT 377.250 723.268 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 734.248 m
+576.000 734.248 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 756.000 m
+36.000 685.608 l S
+1 w
+296.000 756.000 m
+296.000 685.608 l S
+331.000 756.000 m
+331.000 685.608 l S
+366.000 756.000 m
+366.000 685.608 l S
+401.000 756.000 m
+401.000 685.608 l S
+436.000 756.000 m
+436.000 685.608 l S
+471.000 756.000 m
+471.000 685.608 l S
+506.000 756.000 m
+506.000 685.608 l S
+541.000 756.000 m
+541.000 685.608 l S
+1 w
+576.000 756.000 m
+576.000 685.608 l S
+35.500 756.000 m
+576.500 756.000 l S
+35.500 685.608 m
+576.500 685.608 l S
+endstream
+endobj
+
+22 0 obj
+<<
+/Length 108 >>
+stream
+
+BT 41.000 628.396 Td /F2 12.0 Tf 0 Tr (Aspect) Tj ET
+BT 531.000 628.396 Td /F2 12.0 Tf 0 Tr (Percent) Tj ET
+endstream
+endobj
+
+23 0 obj
+<<
+/Length 1116 >>
+stream
+
+BT 41.000 611.056 Td /F1 10.0 Tf 0 Tr (Homework) Tj ET
+BT 541.835 611.056 Td /F1 10.0 Tf 0 Tr (15%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 622.036 m
+576.000 622.036 l S
+1 w
+Q
+BT 41.000 595.896 Td /F1 10.0 Tf 0 Tr (Midterm Exam 1) Tj ET
+BT 541.835 595.896 Td /F1 10.0 Tf 0 Tr (20%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 606.876 m
+576.000 606.876 l S
+1 w
+Q
+BT 41.000 580.736 Td /F1 10.0 Tf 0 Tr (Midterm Exam 2) Tj ET
+BT 541.835 580.736 Td /F1 10.0 Tf 0 Tr (20%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 591.716 m
+576.000 591.716 l S
+1 w
+Q
+BT 41.000 565.576 Td /F1 10.0 Tf 0 Tr (Final Exam) Tj ET
+BT 541.835 565.576 Td /F1 10.0 Tf 0 Tr (25%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 576.556 m
+576.000 576.556 l S
+1 w
+Q
+BT 41.000 550.416 Td /F1 10.0 Tf 0 Tr (Lab Reports) Tj ET
+BT 541.835 550.416 Td /F1 10.0 Tf 0 Tr (20%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 561.396 m
+576.000 561.396 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 643.788 m
+36.000 546.236 l S
+1 w
+526.000 643.788 m
+526.000 546.236 l S
+1 w
+576.000 643.788 m
+576.000 546.236 l S
+35.500 643.788 m
+576.500 643.788 l S
+35.500 546.236 m
+576.500 546.236 l S
+endstream
+endobj
+
+24 0 obj
+<< /Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+
+>>
+endobj
+25 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding 24 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 106 >>
+stream
+
+BT 41.000 489.024 Td /F2 12.0 Tf 0 Tr (Title) Tj ET
+BT 408.642 489.024 Td /F2 12.0 Tf 0 Tr (Author) Tj ET
+endstream
+endobj
+
+27 0 obj
+<<
+/Length 717 >>
+stream
+
+BT 41.000 471.684 Td /F3 10.0 Tf 0 Tr (Signal Processing First, 2003, 0-13-09099-8, Pearson \(new edition Jan 2014\)) Tj ET
+BT 408.642 471.684 Td /F1 10.0 Tf 0 Tr (McCellan, Schafer and Yoder) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 482.664 m
+576.000 482.664 l S
+1 w
+Q
+BT 41.000 456.524 Td /F3 10.0 Tf 0 Tr (Circuits, 2nd ed, 978-1-934891-19-3, NTS Press) Tj ET
+BT 408.642 456.524 Td /F1 10.0 Tf 0 Tr (Ulaby and Maharbiz) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 467.504 m
+576.000 467.504 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 504.416 m
+36.000 452.344 l S
+1 w
+403.642 504.416 m
+403.642 452.344 l S
+1 w
+576.000 504.416 m
+576.000 452.344 l S
+35.500 504.416 m
+576.500 504.416 l S
+35.500 452.344 m
+576.500 452.344 l S
+endstream
+endobj
+
+28 0 obj
+<<
+/Length 129 >>
+stream
+
+BT 41.000 395.132 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 178.000 395.132 Td /F2 12.0 Tf 0 Tr (College Outcome) Tj ET
+endstream
+endobj
+
+29 0 obj
+<<
+/Length 3367 >>
+stream
+
+BT 41.000 377.792 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.280 377.792 Td /F1 10.0 Tf 0 Tr (a) Tj ET
+BT 178.000 377.792 Td /F1 10.0 Tf 0 Tr (An ability to apply knowledge of mathematics, science, and engineering.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 388.772 m
+576.000 388.772 l S
+1 w
+Q
+BT 41.000 362.632 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.000 362.632 Td /F1 10.0 Tf 0 Tr (b) Tj ET
+BT 178.000 362.632 Td /F1 10.0 Tf 0 Tr (An ability to design and conduct experiments, as well as to analyze and interpret data.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 373.612 m
+576.000 373.612 l S
+1 w
+Q
+BT 41.000 347.472 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.280 347.472 Td /F1 10.0 Tf 0 Tr (c) Tj ET
+BT 178.000 347.472 Td /F1 10.0 Tf 0 Tr (An ability to design a system, component, or process to meet desired needs.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 358.452 m
+576.000 358.452 l S
+1 w
+Q
+BT 41.000 332.312 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.000 332.312 Td /F1 10.0 Tf 0 Tr (d) Tj ET
+BT 178.000 332.312 Td /F1 10.0 Tf 0 Tr (An ability to function on multi-disciplinary teams.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 343.292 m
+576.000 343.292 l S
+1 w
+Q
+BT 41.000 317.152 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.280 317.152 Td /F1 10.0 Tf 0 Tr (e) Tj ET
+BT 178.000 317.152 Td /F1 10.0 Tf 0 Tr (An ability to identify, formulate, and solve engineering problems.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 328.132 m
+576.000 328.132 l S
+1 w
+Q
+BT 162.835 301.992 Td /F1 10.0 Tf 0 Tr (f) Tj ET
+BT 178.000 301.992 Td /F1 10.0 Tf 0 Tr (An understanding of professional and ethical responsibility.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 312.972 m
+576.000 312.972 l S
+1 w
+Q
+BT 162.000 286.832 Td /F1 10.0 Tf 0 Tr (g) Tj ET
+BT 178.000 286.832 Td /F1 10.0 Tf 0 Tr (An ability to communicate effectively.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 297.812 m
+576.000 297.812 l S
+1 w
+Q
+BT 162.000 271.672 Td /F1 10.0 Tf 0 Tr (h) Tj ET
+BT 178.000 271.672 Td /F1 10.0 Tf 0 Tr (The broad education necessary to understand the impact of engineering solutions in a global and ) Tj ET
+BT 178.000 260.512 Td /F1 10.0 Tf 0 Tr (societal context.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 282.652 m
+576.000 282.652 l S
+1 w
+Q
+BT 41.000 245.352 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.110 245.352 Td /F1 10.0 Tf 0 Tr (i) Tj ET
+BT 178.000 245.352 Td /F1 10.0 Tf 0 Tr (A recognition of the need for, and an ability to engage in life-long learning.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 256.332 m
+576.000 256.332 l S
+1 w
+Q
+BT 41.000 230.192 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 163.110 230.192 Td /F1 10.0 Tf 0 Tr (j) Tj ET
+BT 178.000 230.192 Td /F1 10.0 Tf 0 Tr (A knowledge of contemporary issues.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 241.172 m
+576.000 241.172 l S
+1 w
+Q
+BT 41.000 215.032 Td /F1 10.0 Tf 0 Tr (***) Tj ET
+BT 162.000 215.032 Td /F1 10.0 Tf 0 Tr (k) Tj ET
+BT 178.000 215.032 Td /F1 10.0 Tf 0 Tr (An ability to use the techniques, skills, and modern engineering tools necessary for engineering ) Tj ET
+BT 178.000 203.872 Td /F1 10.0 Tf 0 Tr (practice.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 226.012 m
+576.000 226.012 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 410.524 m
+36.000 199.692 l S
+1 w
+156.000 410.524 m
+156.000 199.692 l S
+173.000 410.524 m
+173.000 199.692 l S
+1 w
+576.000 410.524 m
+576.000 199.692 l S
+35.500 410.524 m
+576.500 410.524 l S
+35.500 199.692 m
+576.500 199.692 l S
+endstream
+endobj
+
+30 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+31 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 1005 >>
+stream
+
+0.000 0.000 0.000 rg
+0.900 0.900 0.900 RG
+1 w
+q
+0.000 0.000 0.000 rg
+0.900 0.900 0.900 RG
+1 w
+q
+1 w
+BT 36.000 742.000 Td /F4 10.0 Tf 0 Tr (Updated text \(Circuits\) to the latest edition. CD. 10/4/12
+) Tj ET
+BT 36.000 728.000 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 714.000 Td /F4 10.0 Tf 0 Tr (Add Marion Campus 11/13/12
+) Tj ET
+BT 36.000 700.000 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 686.000 Td /F4 10.0 Tf 0 Tr (Update prereqs and exclusions to include transfer student courses 12/12/12
+) Tj ET
+BT 36.000 672.000 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 658.000 Td /F4 10.0 Tf 0 Tr (revise grading scheme 4/24/13
+) Tj ET
+BT 36.000 644.000 Td /F4 10.0 Tf 0 Tr (Changed graded component to lecture, 6/26/13, CED
+) Tj ET
+BT 36.000 630.000 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 616.000 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 602.000 Td /F4 10.0 Tf 0 Tr (Added Lima campus 3/7/14 BLA) Tj ET
+BT 36.000 578.000 Td /F2 12.0 Tf 0 Tr (Prepared by:) Tj /F1 12.0 Tf 0 Tr ( Betty Lise Anderson) Tj ET
+endstream
+endobj
+
+xref
+0 33
+0000000000 65535 f 
+0000000019 00000 n 
+0000000083 00000 n 
+0000000120 00000 n 
+0000000316 00000 n 
+0000000345 00000 n 
+0000000452 00000 n 
+0000000540 00000 n 
+0000004635 00000 n 
+0000004744 00000 n 
+0000004813 00000 n 
+0000004911 00000 n 
+0000005082 00000 n 
+0000005731 00000 n 
+0000006934 00000 n 
+0000007024 00000 n 
+0000008267 00000 n 
+0000009981 00000 n 
+0000010492 00000 n 
+0000017327 00000 n 
+0000017445 00000 n 
+0000019692 00000 n 
+0000021738 00000 n 
+0000021899 00000 n 
+0000023069 00000 n 
+0000023139 00000 n 
+0000023240 00000 n 
+0000023399 00000 n 
+0000024169 00000 n 
+0000024351 00000 n 
+0000027772 00000 n 
+0000027878 00000 n 
+0000027943 00000 n 
+
+trailer
+  << /Size 33
+     /Root 1 0 R
+ /Info 5 0 R
+  >>
+startxref
+29002
+%%EOF

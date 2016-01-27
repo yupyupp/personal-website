@@ -1,0 +1,1284 @@
+%PDF-1.3
+%âãÏÓ
+
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R>>
+endobj
+2 0 obj
+<< /Type /Outlines >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+14 0 R
+21 0 R
+31 0 R
+35 0 R
+]
+/Count 5
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 10 0 R
+/F3 24 0 R
+/F4 34 0 R >>
+>>
+/MediaBox [0 0 612.0 792.0]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/CreationDate (D:201105020500)
+/Creator (pdf-export.rb)
+/Producer (PDF::Writer for Ruby)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+7 0 R
+11 0 R
+12 0 R
+13 0 R
+]
+>>
+endobj
+7 0 obj
+<<
+/Length 3910 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 36.000 735.912 Td /F2 18.0 Tf 0 Tr (CSE 3231 \(Approved\): Software Engineering Techniques) Tj ET
+BT 36.000 703.912 Td /F2 14.0 Tf 0 Tr (Course Description) Tj ET
+BT 36.000 689.912 Td /F1 12.0 Tf 0 Tr (Software engineering issues, techniques, methodologies and technologies; software lifecycle activities: ) Tj ET
+BT 36.000 675.912 Td /F1 12.0 Tf 0 Tr (requirements analysis, architecture, design, testing, deployment, maintenance; project management; enterprise ) Tj ET
+BT 36.000 661.912 Td /F1 12.0 Tf 0 Tr (software systems; frameworks.) Tj ET
+BT 36.000 637.912 Td /F2 12.0 Tf 0 Tr (Prior Course Number:) Tj /F1 12.0 Tf 0 Tr ( CSE 757) Tj ET
+BT 36.000 624.520 Td /F2 12.0 Tf 0 Tr (Transcript Abbreviation:) Tj /F1 12.0 Tf 0 Tr ( Software Eng) Tj ET
+BT 36.000 611.128 Td /F2 12.0 Tf 0 Tr (Grading Plan:) Tj /F1 12.0 Tf 0 Tr ( Letter Grade) Tj ET
+BT 36.000 597.736 Td /F2 12.0 Tf 0 Tr (Course Deliveries:) Tj /F1 12.0 Tf 0 Tr ( Classroom) Tj ET
+BT 36.000 584.344 Td /F2 12.0 Tf 0 Tr (Course Levels:) Tj /F1 12.0 Tf 0 Tr ( Undergrad) Tj ET
+BT 36.000 570.952 Td /F2 12.0 Tf 0 Tr (Student Ranks:) Tj /F1 12.0 Tf 0 Tr ( Junior) Tj ET
+BT 36.000 557.560 Td /F2 12.0 Tf 0 Tr (Course Offerings:) Tj /F1 12.0 Tf 0 Tr ( Autumn, Spring) Tj ET
+BT 36.000 544.168 Td /F2 12.0 Tf 0 Tr (Flex Scheduled Course:) Tj /F1 12.0 Tf 0 Tr ( Never) Tj ET
+BT 36.000 530.776 Td /F2 12.0 Tf 0 Tr (Course Frequency:) Tj /F1 12.0 Tf 0 Tr ( Every Year) Tj ET
+BT 36.000 517.384 Td /F2 12.0 Tf 0 Tr (Course Length:) Tj /F1 12.0 Tf 0 Tr ( 14 Week) Tj ET
+BT 36.000 503.992 Td /F2 12.0 Tf 0 Tr (Credits:) Tj /F1 12.0 Tf 0 Tr ( 3.0) Tj ET
+BT 36.000 490.600 Td /F2 12.0 Tf 0 Tr (Repeatable:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 477.208 Td /F2 12.0 Tf 0 Tr (Time Distribution:) Tj /F1 12.0 Tf 0 Tr ( 3.0 hr Lec) Tj ET
+BT 36.000 463.816 Td /F2 12.0 Tf 0 Tr (Expected out-of-class hours per week:) Tj /F1 12.0 Tf 0 Tr ( 6.0) Tj ET
+BT 36.000 450.424 Td /F2 12.0 Tf 0 Tr (Graded Component:) Tj /F1 12.0 Tf 0 Tr ( Lecture) Tj ET
+BT 36.000 437.032 Td /F2 12.0 Tf 0 Tr (Credit by Examination:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 423.640 Td /F2 12.0 Tf 0 Tr (Admission Condition:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 410.248 Td /F2 12.0 Tf 0 Tr (Off Campus:) Tj /F1 12.0 Tf 0 Tr ( Never) Tj ET
+BT 36.000 396.856 Td /F2 12.0 Tf 0 Tr (Campus Locations:) Tj /F1 12.0 Tf 0 Tr ( Columbus) Tj ET
+BT 36.000 383.464 Td /F2 12.0 Tf 0 Tr (Prerequisites and Co-requisites:) Tj /F1 12.0 Tf 0 Tr ( CSE 3901 or CSE 3902 or CSE 560) Tj ET
+BT 36.000 370.072 Td /F2 12.0 Tf 0 Tr (Exclusions:) Tj /F1 12.0 Tf 0 Tr ( Not open to students with credit for CSE 5231 or CSE 757) Tj ET
+BT 36.000 356.680 Td /F2 12.0 Tf 0 Tr (Cross-Listings:) Tj /F1 12.0 Tf 0 Tr ( ) Tj ET
+BT 36.000 332.680 Td /F2 12.0 Tf 0 Tr (The course is required for this unit's degrees, majors, and/or minors:) Tj /F1 12.0 Tf 0 Tr ( Yes) Tj ET
+BT 36.000 319.288 Td /F2 12.0 Tf 0 Tr (The course is a GEC:) Tj /F1 12.0 Tf 0 Tr ( No) Tj ET
+BT 36.000 305.896 Td /F2 12.0 Tf 0 Tr (The course is an elective \(for this or other units\) or is a service course for other units:) Tj /F1 12.0 Tf 0 Tr ( Yes) Tj ET
+BT 36.000 281.896 Td /F2 12.0 Tf 0 Tr (Subject/CIP Code:) Tj /F1 12.0 Tf 0 Tr ( 14.0901) Tj ET
+BT 36.000 268.504 Td /F2 12.0 Tf 0 Tr (Subsidy Level:) Tj /F1 12.0 Tf 0 Tr ( Baccalaureate Course) Tj ET
+BT 36.000 236.504 Td /F2 14.0 Tf 0 Tr (Programs) Tj ET
+BT 36.000 224.504 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 204.932 540.000 19.572 re f
+1 w
+Q
+q
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 157.772 Td /F2 14.0 Tf 0 Tr (Course Goals) Tj ET
+BT 36.000 145.772 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.900 0.900 0.900 rg
+36.000 117.272 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 75.792 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 45.472 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+endstream
+endobj
+
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Bold
+/Encoding 9 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 118 >>
+stream
+
+BT 41.000 209.112 Td /F2 12.0 Tf 0 Tr (Abbreviation) Tj ET
+BT 266.234 209.112 Td /F2 12.0 Tf 0 Tr (Description) Tj ET
+endstream
+endobj
+
+12 0 obj
+<<
+/Length 425 >>
+stream
+
+BT 41.000 191.772 Td /F1 10.0 Tf 0 Tr (BS CSE) Tj ET
+BT 266.234 191.772 Td /F1 10.0 Tf 0 Tr (BS Computer Science and Engineering) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 202.752 m
+576.000 202.752 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 224.504 m
+36.000 187.592 l S
+1 w
+261.234 224.504 m
+261.234 187.592 l S
+1 w
+576.000 224.504 m
+576.000 187.592 l S
+35.500 224.504 m
+576.500 224.504 l S
+35.500 187.592 m
+576.500 187.592 l S
+endstream
+endobj
+
+13 0 obj
+<<
+/Length 1447 >>
+stream
+
+BT 41.000 132.612 Td /F1 10.0 Tf 0 Tr (Be competent with structured and agile software engineering frameworks; specifically structured and agile software engineering ) Tj ET
+BT 41.000 121.452 Td /F1 10.0 Tf 0 Tr (methodologies for requirements identification, analysis, architecture, design, testing, deployment and project management) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 143.592 m
+576.000 143.592 l S
+1 w
+Q
+BT 41.000 106.292 Td /F1 10.0 Tf 0 Tr (Be familiar with the characterization of enterprise software systems.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 117.272 m
+576.000 117.272 l S
+1 w
+Q
+BT 41.000 91.132 Td /F1 10.0 Tf 0 Tr (Be familiar with frameworks for analyzing the business context of enterprise IT systems, the concept of Business-IT alignment and ) Tj ET
+BT 41.000 79.972 Td /F1 10.0 Tf 0 Tr (related issues, and Enterprise Architecture.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 102.112 m
+576.000 102.112 l S
+1 w
+Q
+BT 41.000 64.812 Td /F1 10.0 Tf 0 Tr (Be exposed to the trends impacting enterprise systems) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 75.792 m
+576.000 75.792 l S
+1 w
+Q
+BT 41.000 49.652 Td /F1 10.0 Tf 0 Tr (Be exposed to the need for frameworks for software engineering) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 60.632 m
+576.000 60.632 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 143.592 m
+36.000 45.472 l S
+576.000 143.592 m
+576.000 45.472 l S
+35.500 143.592 m
+576.500 143.592 l S
+35.500 45.472 m
+576.500 45.472 l S
+endstream
+endobj
+
+14 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+15 0 R
+16 0 R
+17 0 R
+18 0 R
+19 0 R
+20 0 R
+]
+>>
+endobj
+15 0 obj
+<<
+/Length 1059 >>
+stream
+
+1 w
+BT 36.000 724.000 Td /F2 14.0 Tf 0 Tr (Course Topics) Tj ET
+BT 36.000 712.000 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 692.428 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 615.288 540.000 37.480 re f
+0.900 0.900 0.900 rg
+36.000 540.328 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 454.208 540.000 48.640 re f
+0.900 0.900 0.900 rg
+36.000 345.768 540.000 48.640 re f
+0.900 0.900 0.900 rg
+36.000 281.968 540.000 37.480 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 236.988 Td /F2 14.0 Tf 0 Tr (Representative Assignments) Tj ET
+BT 36.000 224.988 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.900 0.900 0.900 rg
+36.000 196.488 540.000 26.320 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 166.668 Td /F2 14.0 Tf 0 Tr (Grades) Tj ET
+BT 36.000 154.668 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 135.096 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 102.596 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 72.276 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+endstream
+endobj
+
+16 0 obj
+<<
+/Length 458 >>
+stream
+
+BT 41.000 696.608 Td /F2 12.0 Tf 0 Tr (Topic) Tj ET
+BT 301.000 696.608 Td /F2 12.0 Tf 0 Tr (Lec) Tj ET
+BT 336.000 696.608 Td /F2 12.0 Tf 0 Tr (Rec) Tj ET
+BT 371.000 696.608 Td /F2 12.0 Tf 0 Tr (Lab) Tj ET
+BT 406.000 696.608 Td /F2 12.0 Tf 0 Tr (Cli) Tj ET
+BT 441.000 696.608 Td /F2 12.0 Tf 0 Tr (IS) Tj ET
+BT 476.000 696.608 Td /F2 12.0 Tf 0 Tr (Sem) Tj ET
+BT 511.000 696.608 Td /F2 12.0 Tf 0 Tr (FE) Tj ET
+BT 546.000 696.608 Td /F2 12.0 Tf 0 Tr (Wor) Tj ET
+endstream
+endobj
+
+17 0 obj
+<<
+/Length 5085 >>
+stream
+
+BT 41.000 679.268 Td /F1 10.0 Tf 0 Tr (Characteristics of enterprise softw. sys.: scale, heterogeneity, ) Tj ET
+BT 41.000 668.108 Td /F1 10.0 Tf 0 Tr (distribution, federation by nature, lack of complete ) Tj ET
+BT 41.000 656.948 Td /F1 10.0 Tf 0 Tr (knowledge; organizational challenges; external drivers. ) Tj ET
+BT 307.250 679.268 Td /F1 10.0 Tf 0 Tr (1.5) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 690.248 m
+576.000 690.248 l S
+1 w
+Q
+BT 41.000 641.788 Td /F1 10.0 Tf 0 Tr (Understanding the business and the relationship between the ) Tj ET
+BT 41.000 630.628 Td /F1 10.0 Tf 0 Tr (business and information technology - business strategy, ) Tj ET
+BT 41.000 619.468 Td /F1 10.0 Tf 0 Tr (business-IT alignment and enterprise architecture. ) Tj ET
+BT 307.250 641.788 Td /F1 10.0 Tf 0 Tr (3.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 652.768 m
+576.000 652.768 l S
+1 w
+Q
+BT 41.000 604.308 Td /F1 10.0 Tf 0 Tr (Software engineering process  broadly characterized as ) Tj ET
+BT 41.000 593.148 Td /F1 10.0 Tf 0 Tr (structured or agile processes. Scenario-driven, Incremental ) Tj ET
+BT 41.000 581.988 Td /F1 10.0 Tf 0 Tr (and iterative development. Introduction to work-products and ) Tj ET
+BT 41.000 570.828 Td /F1 10.0 Tf 0 Tr (work-product-oriented development. Agile principles. ) Tj ET
+BT 307.250 604.308 Td /F1 10.0 Tf 0 Tr (2.5) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 615.288 m
+576.000 615.288 l S
+1 w
+Q
+BT 41.000 555.668 Td /F1 10.0 Tf 0 Tr (Requirements gathering. Structured and agile requirements ) Tj ET
+BT 41.000 544.508 Td /F1 10.0 Tf 0 Tr (work-products. ) Tj ET
+BT 307.250 555.668 Td /F1 10.0 Tf 0 Tr (4.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 566.648 m
+576.000 566.648 l S
+1 w
+Q
+BT 41.000 529.348 Td /F1 10.0 Tf 0 Tr (Analysis  domain, problem and solution analysis. Exposure ) Tj ET
+BT 41.000 518.188 Td /F1 10.0 Tf 0 Tr (to UML. Structured and agile analysis work-products. CRC-) Tj ET
+BT 41.000 507.028 Td /F1 10.0 Tf 0 Tr (card based analysis. ) Tj ET
+BT 307.250 529.348 Td /F1 10.0 Tf 0 Tr (4.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 540.328 m
+576.000 540.328 l S
+1 w
+Q
+BT 41.000 491.868 Td /F1 10.0 Tf 0 Tr (Architecting softw. intensive sys: Designing, evaluating ) Tj ET
+BT 41.000 480.708 Td /F1 10.0 Tf 0 Tr (architectures; non-functional requirements & quality ) Tj ET
+BT 41.000 469.548 Td /F1 10.0 Tf 0 Tr (attributes in arch. Quality-driven design. Structured & agile ) Tj ET
+BT 41.000 458.388 Td /F1 10.0 Tf 0 Tr (architecture work-products.) Tj ET
+BT 307.250 491.868 Td /F1 10.0 Tf 0 Tr (6.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 502.848 m
+576.000 502.848 l S
+1 w
+Q
+BT 41.000 443.228 Td /F1 10.0 Tf 0 Tr (Software project management: Structured and Agile project ) Tj ET
+BT 41.000 432.068 Td /F1 10.0 Tf 0 Tr (planning and management, linear and parametric software ) Tj ET
+BT 41.000 420.908 Td /F1 10.0 Tf 0 Tr (estimation, Risk planning. Software configuration ) Tj ET
+BT 41.000 409.748 Td /F1 10.0 Tf 0 Tr (management. Agile boot camp  LEGO-based workshop on ) Tj ET
+BT 41.000 398.588 Td /F1 10.0 Tf 0 Tr (Agile development. ) Tj ET
+BT 307.250 443.228 Td /F1 10.0 Tf 0 Tr (6.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 454.208 m
+576.000 454.208 l S
+1 w
+Q
+BT 41.000 383.428 Td /F1 10.0 Tf 0 Tr (Software design: Responsibility-driven design concepts, ) Tj ET
+BT 41.000 372.268 Td /F1 10.0 Tf 0 Tr (application of responsibility-driven design in design patterns ) Tj ET
+BT 41.000 361.108 Td /F1 10.0 Tf 0 Tr (and enterprise technology frameworks, designing ) Tj ET
+BT 41.000 349.948 Td /F1 10.0 Tf 0 Tr (applications using enterprise technology frameworks.) Tj ET
+BT 307.250 383.428 Td /F1 10.0 Tf 0 Tr (6.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 394.408 m
+576.000 394.408 l S
+1 w
+Q
+BT 41.000 334.788 Td /F1 10.0 Tf 0 Tr (Testing: Testing methodologies for enterprise systems. ) Tj ET
+BT 41.000 323.628 Td /F1 10.0 Tf 0 Tr (Testing in agile methodologies.) Tj ET
+BT 307.250 334.788 Td /F1 10.0 Tf 0 Tr (4.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 345.768 m
+576.000 345.768 l S
+1 w
+Q
+BT 41.000 308.468 Td /F1 10.0 Tf 0 Tr (Deployment, Maintenance and Management: IT ) Tj ET
+BT 41.000 297.308 Td /F1 10.0 Tf 0 Tr (Infrastructure Library \(ITIL\) practices for infrastructure ) Tj ET
+BT 41.000 286.148 Td /F1 10.0 Tf 0 Tr (management. ) Tj ET
+BT 307.250 308.468 Td /F1 10.0 Tf 0 Tr (2.0) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 319.448 m
+576.000 319.448 l S
+1 w
+Q
+BT 41.000 270.988 Td /F1 10.0 Tf 0 Tr (Case studies in software engineering) Tj ET
+BT 307.250 270.988 Td /F1 10.0 Tf 0 Tr (2.5) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 281.968 m
+576.000 281.968 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 712.000 m
+36.000 266.808 l S
+1 w
+296.000 712.000 m
+296.000 266.808 l S
+331.000 712.000 m
+331.000 266.808 l S
+366.000 712.000 m
+366.000 266.808 l S
+401.000 712.000 m
+401.000 266.808 l S
+436.000 712.000 m
+436.000 266.808 l S
+471.000 712.000 m
+471.000 266.808 l S
+506.000 712.000 m
+506.000 266.808 l S
+541.000 712.000 m
+541.000 266.808 l S
+1 w
+576.000 712.000 m
+576.000 266.808 l S
+35.500 712.000 m
+576.500 712.000 l S
+35.500 266.808 m
+576.500 266.808 l S
+endstream
+endobj
+
+18 0 obj
+<<
+/Length 546 >>
+stream
+
+BT 41.000 211.828 Td /F1 10.0 Tf 0 Tr (A small-team project that begins with the analysis of a business to identify where a software system might be of value, followed by ) Tj ET
+BT 41.000 200.668 Td /F1 10.0 Tf 0 Tr (the requirements identification, analysis and design of this system on paper.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 222.808 m
+576.000 222.808 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 222.808 m
+36.000 196.488 l S
+576.000 222.808 m
+576.000 196.488 l S
+35.500 222.808 m
+576.500 222.808 l S
+35.500 196.488 m
+576.500 196.488 l S
+endstream
+endobj
+
+19 0 obj
+<<
+/Length 108 >>
+stream
+
+BT 41.000 139.276 Td /F2 12.0 Tf 0 Tr (Aspect) Tj ET
+BT 531.000 139.276 Td /F2 12.0 Tf 0 Tr (Percent) Tj ET
+endstream
+endobj
+
+20 0 obj
+<<
+/Length 1130 >>
+stream
+
+BT 41.000 121.936 Td /F1 10.0 Tf 0 Tr (Class participation) Tj ET
+BT 541.835 121.936 Td /F1 10.0 Tf 0 Tr (10%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 132.916 m
+576.000 132.916 l S
+1 w
+Q
+BT 41.000 106.776 Td /F1 10.0 Tf 0 Tr (Workshop participation) Tj ET
+BT 541.835 106.776 Td /F1 10.0 Tf 0 Tr (10%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 117.756 m
+576.000 117.756 l S
+1 w
+Q
+BT 41.000 91.616 Td /F1 10.0 Tf 0 Tr (Team Project) Tj ET
+BT 541.835 91.616 Td /F1 10.0 Tf 0 Tr (30%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 102.596 m
+576.000 102.596 l S
+1 w
+Q
+BT 41.000 76.456 Td /F1 10.0 Tf 0 Tr (In-class Quizzes) Tj ET
+BT 541.835 76.456 Td /F1 10.0 Tf 0 Tr (30%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 87.436 m
+576.000 87.436 l S
+1 w
+Q
+BT 41.000 61.296 Td /F1 10.0 Tf 0 Tr (Final examination) Tj ET
+BT 541.835 61.296 Td /F1 10.0 Tf 0 Tr (20%) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 72.276 m
+576.000 72.276 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 154.668 m
+36.000 57.116 l S
+1 w
+526.000 154.668 m
+526.000 57.116 l S
+1 w
+576.000 154.668 m
+576.000 57.116 l S
+35.500 154.668 m
+576.500 154.668 l S
+35.500 57.116 m
+576.500 57.116 l S
+endstream
+endobj
+
+21 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+22 0 R
+25 0 R
+26 0 R
+27 0 R
+28 0 R
+29 0 R
+30 0 R
+]
+>>
+endobj
+22 0 obj
+<<
+/Length 1384 >>
+stream
+
+1 w
+BT 36.000 724.000 Td /F2 14.0 Tf 0 Tr (Representative Textbooks and Other Course Materials) Tj ET
+BT 36.000 712.000 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 692.428 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 659.928 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 614.948 Td /F2 14.0 Tf 0 Tr (ABET-EAC Criterion 3 Outcomes) Tj ET
+BT 36.000 602.948 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 583.376 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 550.876 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 520.556 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 490.236 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 448.756 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 418.436 540.000 15.160 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 362.296 Td /F2 14.0 Tf 0 Tr (BS CSE Program Outcomes) Tj ET
+BT 36.000 350.296 Td /F1 14.0 Tf 0 Tr ( ) Tj ET
+0.900 0.900 0.900 RG
+q
+0.800 0.800 0.800 rg
+36.000 330.724 540.000 19.572 re f
+1 w
+Q
+q
+0.900 0.900 0.900 rg
+36.000 287.064 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 223.264 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 192.944 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 151.464 540.000 26.320 re f
+0.900 0.900 0.900 rg
+36.000 109.984 540.000 15.160 re f
+0.900 0.900 0.900 rg
+36.000 57.344 540.000 26.320 re f
+1 w
+Q
+endstream
+endobj
+
+23 0 obj
+<< /Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+
+>>
+endobj
+24 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding 23 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 106 >>
+stream
+
+BT 41.000 696.608 Td /F2 12.0 Tf 0 Tr (Title) Tj ET
+BT 384.073 696.608 Td /F2 12.0 Tf 0 Tr (Author) Tj ET
+endstream
+endobj
+
+26 0 obj
+<<
+/Length 909 >>
+stream
+
+BT 41.000 679.268 Td /F3 10.0 Tf 0 Tr (Software Engineering) Tj ET
+BT 384.073 679.268 Td /F1 10.0 Tf 0 Tr (Sommerville) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 690.248 m
+576.000 690.248 l S
+1 w
+Q
+BT 41.000 664.108 Td /F3 10.0 Tf 0 Tr (Software Engineering, A Practitioners Approach) Tj ET
+BT 384.073 664.108 Td /F1 10.0 Tf 0 Tr (Pressman) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 675.088 m
+576.000 675.088 l S
+1 w
+Q
+BT 41.000 648.948 Td /F3 10.0 Tf 0 Tr (Developing Object-Oriented Software, An Experience-Based Approach, 1997.) Tj ET
+BT 384.073 648.948 Td /F1 10.0 Tf 0 Tr (Object-Oriented Technology Center, IBM) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 659.928 m
+576.000 659.928 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 712.000 m
+36.000 644.768 l S
+1 w
+379.073 712.000 m
+379.073 644.768 l S
+1 w
+576.000 712.000 m
+576.000 644.768 l S
+35.500 712.000 m
+576.500 712.000 l S
+35.500 644.768 m
+576.500 644.768 l S
+endstream
+endobj
+
+27 0 obj
+<<
+/Length 129 >>
+stream
+
+BT 41.000 587.556 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 178.000 587.556 Td /F2 12.0 Tf 0 Tr (College Outcome) Tj ET
+endstream
+endobj
+
+28 0 obj
+<<
+/Length 3454 >>
+stream
+
+BT 41.000 570.216 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 162.280 570.216 Td /F1 10.0 Tf 0 Tr (a) Tj ET
+BT 178.000 570.216 Td /F1 10.0 Tf 0 Tr (An ability to apply knowledge of mathematics, science, and engineering.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 581.196 m
+576.000 581.196 l S
+1 w
+Q
+BT 162.000 555.056 Td /F1 10.0 Tf 0 Tr (b) Tj ET
+BT 178.000 555.056 Td /F1 10.0 Tf 0 Tr (An ability to design and conduct experiments, as well as to analyze and interpret data.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 566.036 m
+576.000 566.036 l S
+1 w
+Q
+BT 41.000 539.896 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 162.280 539.896 Td /F1 10.0 Tf 0 Tr (c) Tj ET
+BT 178.000 539.896 Td /F1 10.0 Tf 0 Tr (An ability to design a system, component, or process to meet desired needs.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 550.876 m
+576.000 550.876 l S
+1 w
+Q
+BT 41.000 524.736 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 162.000 524.736 Td /F1 10.0 Tf 0 Tr (d) Tj ET
+BT 178.000 524.736 Td /F1 10.0 Tf 0 Tr (An ability to function on multi-disciplinary teams.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 535.716 m
+576.000 535.716 l S
+1 w
+Q
+BT 41.000 509.576 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 162.280 509.576 Td /F1 10.0 Tf 0 Tr (e) Tj ET
+BT 178.000 509.576 Td /F1 10.0 Tf 0 Tr (An ability to identify, formulate, and solve engineering problems.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 520.556 m
+576.000 520.556 l S
+1 w
+Q
+BT 41.000 494.416 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 162.835 494.416 Td /F1 10.0 Tf 0 Tr (f) Tj ET
+BT 178.000 494.416 Td /F1 10.0 Tf 0 Tr (An understanding of professional and ethical responsibility.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 505.396 m
+576.000 505.396 l S
+1 w
+Q
+BT 41.000 479.256 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 162.000 479.256 Td /F1 10.0 Tf 0 Tr (g) Tj ET
+BT 178.000 479.256 Td /F1 10.0 Tf 0 Tr (An ability to communicate effectively.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 490.236 m
+576.000 490.236 l S
+1 w
+Q
+BT 41.000 464.096 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 162.000 464.096 Td /F1 10.0 Tf 0 Tr (h) Tj ET
+BT 178.000 464.096 Td /F1 10.0 Tf 0 Tr (The broad education necessary to understand the impact of engineering solutions in a global and ) Tj ET
+BT 178.000 452.936 Td /F1 10.0 Tf 0 Tr (societal context.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 475.076 m
+576.000 475.076 l S
+1 w
+Q
+BT 41.000 437.776 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.110 437.776 Td /F1 10.0 Tf 0 Tr (i) Tj ET
+BT 178.000 437.776 Td /F1 10.0 Tf 0 Tr (A recognition of the need for, and an ability to engage in life-long learning.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 448.756 m
+576.000 448.756 l S
+1 w
+Q
+BT 41.000 422.616 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.110 422.616 Td /F1 10.0 Tf 0 Tr (j) Tj ET
+BT 178.000 422.616 Td /F1 10.0 Tf 0 Tr (A knowledge of contemporary issues.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 433.596 m
+576.000 433.596 l S
+1 w
+Q
+BT 41.000 407.456 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 162.000 407.456 Td /F1 10.0 Tf 0 Tr (k) Tj ET
+BT 178.000 407.456 Td /F1 10.0 Tf 0 Tr (An ability to use the techniques, skills, and modern engineering tools necessary for engineering ) Tj ET
+BT 178.000 396.296 Td /F1 10.0 Tf 0 Tr (practice.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 418.436 m
+576.000 418.436 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 602.948 m
+36.000 392.116 l S
+1 w
+156.000 602.948 m
+156.000 392.116 l S
+173.000 602.948 m
+173.000 392.116 l S
+1 w
+576.000 602.948 m
+576.000 392.116 l S
+35.500 602.948 m
+576.500 602.948 l S
+35.500 392.116 m
+576.500 392.116 l S
+endstream
+endobj
+
+29 0 obj
+<<
+/Length 129 >>
+stream
+
+BT 41.000 334.904 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 180.780 334.904 Td /F2 12.0 Tf 0 Tr (Program Outcome) Tj ET
+endstream
+endobj
+
+30 0 obj
+<<
+/Length 4545 >>
+stream
+
+BT 41.000 317.564 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.670 317.564 Td /F1 10.0 Tf 0 Tr (a) Tj ET
+BT 180.780 317.564 Td /F1 10.0 Tf 0 Tr (an ability to apply knowledge of computing, mathematics including discrete mathematics as ) Tj ET
+BT 180.780 306.404 Td /F1 10.0 Tf 0 Tr (well as probability and statistics, science, and engineering;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 328.544 m
+576.000 328.544 l S
+1 w
+Q
+BT 163.390 291.244 Td /F1 10.0 Tf 0 Tr (b) Tj ET
+BT 180.780 291.244 Td /F1 10.0 Tf 0 Tr (an ability to design and conduct experiments, as well as to analyze and interpret data; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 302.224 m
+576.000 302.224 l S
+1 w
+Q
+BT 41.000 276.084 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 163.670 276.084 Td /F1 10.0 Tf 0 Tr (c) Tj ET
+BT 180.780 276.084 Td /F1 10.0 Tf 0 Tr (an ability to design, implement, and evaluate a software or a software/hardware system, ) Tj ET
+BT 180.780 264.924 Td /F1 10.0 Tf 0 Tr (component, or process to meet desired needs within realistic constraints such as memory, ) Tj ET
+BT 180.780 253.764 Td /F1 10.0 Tf 0 Tr (runtime efficiency, as well as appropriate constraints related to economic, environmental, social, ) Tj ET
+BT 180.780 242.604 Td /F1 10.0 Tf 0 Tr (political, ethical, health and safety, manufacturability, and sustainability considerations;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 287.064 m
+576.000 287.064 l S
+1 w
+Q
+BT 41.000 227.444 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.390 227.444 Td /F1 10.0 Tf 0 Tr (d) Tj ET
+BT 180.780 227.444 Td /F1 10.0 Tf 0 Tr (an ability to function on multi-disciplinary teams; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 238.424 m
+576.000 238.424 l S
+1 w
+Q
+BT 41.000 212.284 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 163.670 212.284 Td /F1 10.0 Tf 0 Tr (e) Tj ET
+BT 180.780 212.284 Td /F1 10.0 Tf 0 Tr (an ability to identify, formulate, and solve engineering problems; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 223.264 m
+576.000 223.264 l S
+1 w
+Q
+BT 41.000 197.124 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 164.225 197.124 Td /F1 10.0 Tf 0 Tr (f) Tj ET
+BT 180.780 197.124 Td /F1 10.0 Tf 0 Tr (an understanding of professional, ethical, legal, security and social issues and responsibilities;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 208.104 m
+576.000 208.104 l S
+1 w
+Q
+BT 41.000 181.964 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.390 181.964 Td /F1 10.0 Tf 0 Tr (g) Tj ET
+BT 180.780 181.964 Td /F1 10.0 Tf 0 Tr (an ability to communicate effectively with a range of audiences; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 192.944 m
+576.000 192.944 l S
+1 w
+Q
+BT 41.000 166.804 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 163.390 166.804 Td /F1 10.0 Tf 0 Tr (h) Tj ET
+BT 180.780 166.804 Td /F1 10.0 Tf 0 Tr (an ability to analyze the local and global impact of computing on individuals, organizations, and ) Tj ET
+BT 180.780 155.644 Td /F1 10.0 Tf 0 Tr (society;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 177.784 m
+576.000 177.784 l S
+1 w
+Q
+BT 41.000 140.484 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 164.500 140.484 Td /F1 10.0 Tf 0 Tr (i) Tj ET
+BT 180.780 140.484 Td /F1 10.0 Tf 0 Tr (a recognition of the need for, and an ability to engage in life-long learning and continuing ) Tj ET
+BT 180.780 129.324 Td /F1 10.0 Tf 0 Tr (professional development;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 151.464 m
+576.000 151.464 l S
+1 w
+Q
+BT 41.000 114.164 Td /F1 10.0 Tf 0 Tr (*) Tj ET
+BT 164.500 114.164 Td /F1 10.0 Tf 0 Tr (j) Tj ET
+BT 180.780 114.164 Td /F1 10.0 Tf 0 Tr (a knowledge of contemporary issues; ) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 125.144 m
+576.000 125.144 l S
+1 w
+Q
+BT 41.000 99.004 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 163.390 99.004 Td /F1 10.0 Tf 0 Tr (k) Tj ET
+BT 180.780 99.004 Td /F1 10.0 Tf 0 Tr (an ability to use the techniques, skills, and modern engineering tools necessary for practice as a ) Tj ET
+BT 180.780 87.844 Td /F1 10.0 Tf 0 Tr (CSE professional;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 109.984 m
+576.000 109.984 l S
+1 w
+Q
+BT 41.000 72.684 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 164.500 72.684 Td /F1 10.0 Tf 0 Tr (l) Tj ET
+BT 180.780 72.684 Td /F1 10.0 Tf 0 Tr (an ability to analyze a problem, and identify and define the computing requirements appropriate ) Tj ET
+BT 180.780 61.524 Td /F1 10.0 Tf 0 Tr (to its solution;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 83.664 m
+576.000 83.664 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 350.296 m
+36.000 57.344 l S
+1 w
+156.000 350.296 m
+156.000 57.344 l S
+175.780 350.296 m
+175.780 57.344 l S
+1 w
+576.000 350.296 m
+576.000 57.344 l S
+35.500 350.296 m
+576.500 350.296 l S
+35.500 57.344 m
+576.500 57.344 l S
+endstream
+endobj
+
+31 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents [
+32 0 R
+33 0 R
+]
+>>
+endobj
+32 0 obj
+<<
+/Length 4557 >>
+stream
+
+1 w
+q
+q
+0.900 0.900 0.900 rg
+36.000 670.448 540.000 26.320 re f
+1 w
+Q
+0.000 0.000 0.000 RG
+BT 36.000 640.628 Td /F2 14.0 Tf 0 Tr (Additional Notes or Comments) Tj ET
+BT 36.000 626.628 Td /F4 10.0 Tf 0 Tr (Means for Achieving Learning Outcomes
+) Tj ET
+BT 36.000 612.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 598.628 Td /F4 10.0 Tf 0 Tr (Inverted Classroom: Lectures have been pre-recorded and accessible online. Students are ) Tj ET
+BT 36.000 584.628 Td /F4 10.0 Tf 0 Tr (expected to familiarize themselves with the lecture and prepare lecture notes before they ) Tj ET
+BT 36.000 570.628 Td /F4 10.0 Tf 0 Tr (come to class. 
+) Tj ET
+BT 36.000 556.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 542.628 Td /F4 10.0 Tf 0 Tr (Active Learning: Software Engineering has traditionally been a difficult subject to teach ) Tj ET
+BT 36.000 528.628 Td /F4 10.0 Tf 0 Tr (in a purely lecture and examination based format. In this class we will attempt to teach ) Tj ET
+BT 36.000 514.628 Td /F4 10.0 Tf 0 Tr (SE through in-class activities and discussion, and a project.
+) Tj ET
+BT 36.000 500.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 486.628 Td /F4 10.0 Tf 0 Tr (Class discussions: You are expected to participate in discussions about the lecture ) Tj ET
+BT 36.000 472.628 Td /F4 10.0 Tf 0 Tr (material as well as the research presentations
+) Tj ET
+BT 36.000 458.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 444.628 Td /F4 10.0 Tf 0 Tr (Quizzes: There will be 15-minute quizzes at the beginning of each course segment. ) Tj ET
+BT 36.000 430.628 Td /F4 10.0 Tf 0 Tr (Students may use their prepared notes on the lecture to answer the quiz. Students may not ) Tj ET
+BT 36.000 416.628 Td /F4 10.0 Tf 0 Tr (refer to the actual lecture slides or the lecture itself for the quiz.
+) Tj ET
+BT 36.000 402.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 388.628 Td /F4 10.0 Tf 0 Tr (Workshop: In-class workshops will be used to provide hands-on experiences on certain ) Tj ET
+BT 36.000 374.628 Td /F4 10.0 Tf 0 Tr (software engineering topics such as Agile development.
+) Tj ET
+BT 36.000 360.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 346.628 Td /F4 10.0 Tf 0 Tr (Project: There will be an integrative paper project. Class sessions will be reserved to ) Tj ET
+BT 36.000 332.628 Td /F4 10.0 Tf 0 Tr (work on the project. However, students will need to reserve time outside of class to work ) Tj ET
+BT 36.000 318.628 Td /F4 10.0 Tf 0 Tr (on the project 
+) Tj ET
+BT 36.000 304.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 290.628 Td /F4 10.0 Tf 0 Tr (Course Policies
+) Tj ET
+BT 36.000 276.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 262.628 Td /F4 10.0 Tf 0 Tr (The following course policy applies to the classroom and team interactions  you are ) Tj ET
+BT 36.000 248.628 Td /F4 10.0 Tf 0 Tr (expected to show the same responsibility to your teammates as you do to me.
+) Tj ET
+BT 36.000 234.628 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 220.628 Td /F4 10.0 Tf 0 Tr (	Attendance: You are expected to attend all classroom sessions and team meetings, and do ) Tj ET
+BT 36.000 206.628 Td /F4 10.0 Tf 0 Tr (all the assigned work, self-study and readings.
+) Tj ET
+BT 36.000 192.628 Td /F4 10.0 Tf 0 Tr (	Class preparation: You are expected to be prepared for class, participate in the ) Tj ET
+BT 36.000 178.628 Td /F4 10.0 Tf 0 Tr (discussion, answer questions, etc., on the topic for the day.
+) Tj ET
+BT 36.000 164.628 Td /F4 10.0 Tf 0 Tr (	Missed classes, exams, presentations, and meetings: You are responsible for all class ) Tj ET
+BT 36.000 150.628 Td /F4 10.0 Tf 0 Tr (lectures, including handouts and notes. There will be no make up exams, presentations, ) Tj ET
+BT 36.000 136.628 Td /F4 10.0 Tf 0 Tr (lectures, etc.
+) Tj ET
+BT 36.000 122.628 Td /F4 10.0 Tf 0 Tr (	Assignments: Assignments \(if any\) are duein hardcopyat the beginning of class on the due ) Tj ET
+BT 36.000 108.628 Td /F4 10.0 Tf 0 Tr (date. Assignments must be typed and formatted appropriately. 
+) Tj ET
+BT 36.000 94.628 Td /F4 10.0 Tf 0 Tr (	Workshops: We may reserve a weekly time outside of class for collaborative hands-on ) Tj ET
+BT 36.000 80.628 Td /F4 10.0 Tf 0 Tr (workshops.
+) Tj ET
+BT 36.000 66.628 Td /F4 10.0 Tf 0 Tr (	Contact and class information: The course web site \(see above\) and email communication ) Tj ET
+BT 36.000 52.628 Td /F4 10.0 Tf 0 Tr (will be extensively used and relied upon for this course. Please familiarize yourself ) Tj ET
+BT 36.000 38.628 Td /F4 10.0 Tf 0 Tr (with these resources, provide me with your email address in the questionnaire and check ) Tj ET
+Q
+endstream
+endobj
+
+33 0 obj
+<<
+/Length 1542 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 41.000 740.608 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 180.780 740.608 Td /F2 12.0 Tf 0 Tr (Program Outcome) Tj ET
+0.800 0.800 0.800 rg
+36.000 736.428 540.000 19.572 re f
+0.000 0.000 0.000 rg
+BT 41.000 740.608 Td /F2 12.0 Tf 0 Tr (Course Contribution) Tj ET
+BT 180.780 740.608 Td /F2 12.0 Tf 0 Tr (Program Outcome) Tj ET
+BT 41.000 723.268 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 162.000 723.268 Td /F1 10.0 Tf 0 Tr (m) Tj ET
+BT 180.780 723.268 Td /F1 10.0 Tf 0 Tr (an ability to apply mathematical foundations, algorithmic principles, and computer science ) Tj ET
+BT 180.780 712.108 Td /F1 10.0 Tf 0 Tr (theory in the modeling and design of computer-based systems in a way that demonstrates ) Tj ET
+BT 180.780 700.948 Td /F1 10.0 Tf 0 Tr (comprehension of the tradeoffs involved in design choices;) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 734.248 m
+576.000 734.248 l S
+1 w
+Q
+BT 41.000 685.788 Td /F1 10.0 Tf 0 Tr (**) Tj ET
+BT 163.390 685.788 Td /F1 10.0 Tf 0 Tr (n) Tj ET
+BT 180.780 685.788 Td /F1 10.0 Tf 0 Tr (an ability to apply design and development principles in the construction of software systems of ) Tj ET
+BT 180.780 674.628 Td /F1 10.0 Tf 0 Tr (varying complexity.) Tj ET
+q
+0.000 0.000 0.000 RG
+1 w
+36.000 696.768 m
+576.000 696.768 l S
+1 w
+Q
+0.000 0.000 0.000 RG
+1 w
+36.000 756.000 m
+36.000 670.448 l S
+1 w
+156.000 756.000 m
+156.000 670.448 l S
+175.780 756.000 m
+175.780 670.448 l S
+1 w
+576.000 756.000 m
+576.000 670.448 l S
+35.500 756.000 m
+576.500 756.000 l S
+35.500 670.448 m
+576.500 670.448 l S
+endstream
+endobj
+
+34 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+35 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 795 >>
+stream
+
+0.000 0.000 0.000 rg
+0.900 0.900 0.900 RG
+1 w
+q
+1 w
+BT 36.000 742.000 Td /F4 10.0 Tf 0 Tr (your email at least once every day. 
+) Tj ET
+BT 36.000 728.000 Td /F4 10.0 Tf 0 Tr (	Sharing and attribution of intellectual property and information: You are free to ) Tj ET
+BT 36.000 714.000 Td /F4 10.0 Tf 0 Tr (exchange and use any information from each others projects. You may also freely research ) Tj ET
+BT 36.000 700.000 Td /F4 10.0 Tf 0 Tr (and use information legally available from the Web or other sources. However, you must ) Tj ET
+BT 36.000 686.000 Td /F4 10.0 Tf 0 Tr (properly attribute each piece of borrowed intellectual property.
+) Tj ET
+BT 36.000 672.000 Td /F4 10.0 Tf 0 Tr (
+) Tj ET
+BT 36.000 648.000 Td /F2 12.0 Tf 0 Tr (Prepared by:) Tj /F1 12.0 Tf 0 Tr ( Rajiv Ramnath) Tj ET
+endstream
+endobj
+
+xref
+0 37
+0000000000 65535 f 
+0000000019 00000 n 
+0000000083 00000 n 
+0000000120 00000 n 
+0000000323 00000 n 
+0000000352 00000 n 
+0000000462 00000 n 
+0000000550 00000 n 
+0000004513 00000 n 
+0000004622 00000 n 
+0000004691 00000 n 
+0000004789 00000 n 
+0000004960 00000 n 
+0000005438 00000 n 
+0000006939 00000 n 
+0000007043 00000 n 
+0000008156 00000 n 
+0000008667 00000 n 
+0000013806 00000 n 
+0000014405 00000 n 
+0000014566 00000 n 
+0000015750 00000 n 
+0000015861 00000 n 
+0000017299 00000 n 
+0000017369 00000 n 
+0000017470 00000 n 
+0000017629 00000 n 
+0000018591 00000 n 
+0000018773 00000 n 
+0000022281 00000 n 
+0000022463 00000 n 
+0000027062 00000 n 
+0000027138 00000 n 
+0000031749 00000 n 
+0000033345 00000 n 
+0000033451 00000 n 
+0000033516 00000 n 
+
+trailer
+  << /Size 37
+     /Root 1 0 R
+ /Info 5 0 R
+  >>
+startxref
+34364
+%%EOF
