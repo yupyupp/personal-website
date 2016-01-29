@@ -10,7 +10,7 @@ page_order:	3
  - Java
  - Python
 
-## Minimal Experience
+## Some Experience
  - C++
  - Bash Scripting
  - MATLAB
