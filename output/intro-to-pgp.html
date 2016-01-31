@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="">	
+	<head>
+		<meta charset="utf-8"/>
+		<title>Intro to PGP - Stephen J. Haffner | kd8zev</title>	
+		<meta name="author" content="Stephen Haffner">
+
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+
+		<link href='https://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://haffner.me/theme/css/main.css" type="text/css" />
+
+		<!--[if lt IE 9]>
+	  		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+	</head>
+	<body>
+		<header class="clearfix" role="banner">
+			<div>
+				<h1 class="huge"><a href="http://haffner.me">Stephen J. Haffner | kd8zev</a></h1>
+			<nav id="top">
+				<ul>
+<li><a href="/pages/about-me/">About Me</a>
+						</li>
+<li><a href="/pages/academics/">Academics</a>
+						</li>
+<li><a href="/pages/technical-skills/">Technical Skills</a>
+						</li>
+<li><a href="/pages/projects/">Projects</a>
+<ul>
+<li><a href="/pages/projects/3902/">CSE 3902 Mario Clone</a></li><li><a href="/pages/projects/robot/">FEH Robot Design Class</a></li><li><a href="/pages/projects/meebee/">MeeBee</a></li><li><a href="/pages/projects/pelicanthemes/">Personal Website</a></li><li><a href="/pages/projects/khn-ld/">Kettering Health Network Light Dome</a></li><li><a href="/pages/projects/medzap/">MedZap</a></li>							</ul>						</li>
+<li><a href="/pages/pgp/">PGP Keys</a>
+						</li>
+<li><a href="/pages/contact/">Contact</a>
+						</li>
+					<li><a href="http://haffner.me/static/HaffnerStephen-Resume.pdf">Resume</a></li>
+				</ul>
+			</nav>
+			</div>
+		</header>
+
+<div role="main" class="content clearfix">	
+	<article>
+		<div class="post wrapper">
+			<h1>Intro to PGP</h1>
+			<div class="section" id="public-and-private-keys">
+<h2>Public and Private Keys</h2>
+<p>When someone uses PGP they generate a pair of keys; one private key and one public key. The private key is kept by the person who made it and the public key is given to anyone she/he wants to communicate with.</p>
+</div>
+<div class="section" id="signing-vs-encryption">
+<h2>Signing vs Encryption</h2>
+<p>PGP can accomplish two things, encryption and signing. <strong>Signing</strong> is used to verify that a message or file came from a certain person and has not been tampered with. <strong>Encryption</strong> is used to make the contents of a message or file private so it is unreadable to anyone but the desired recipient.</p>
+<p>Signing does NOT provide privacy and encryption does NOT provide verification! To achieve both privacy and validation, a message or file must be both signed and encrypted. The following examples attempt to illustrate this.</p>
+<div class="section" id="no-pgp">
+<h3>No PGP</h3>
+<p>Alice sends Bob an email but Eve intercepts the email. Not only is Eve able to read Alice's message, she is also able to change the message before Bob reads it and neither Eve nor Bob know that the message was read and modified by Eve.</p>
+<p>Eve poses as Alice and sends Bob a message. Since Bob and Alice do not use PGP, Bob has no way of knowing that the message did not come from Alice.</p>
+</div>
+<div class="section" id="just-signing">
+<h3>Just Signing</h3>
+<p>Alice signs a message with her private key and emails it to Bob. Eve intercepts the email and is able to read it, but she notices that is has been signed by Alice. If Eve modifies the message Bob will know when he tries to use Alice's public key to verify the signature.</p>
+<p>Eve poses as Alice and sends Bob a message. Since Bob expects all of Alice's messages to be signed with her private key he is suspicious of the message and contacts Alice to check if she actually sent him the message.</p>
+</div>
+<div class="section" id="just-encryption">
+<h3>Just Encryption</h3>
+<p>Alice encrypts a message to Bob using Bob's public key. Eve intercepts the email but can not read the contents of the message since it is encrypted. Eve has no good way to modify the message because she doesn't know what the message contained. Bob receives the message and is able to decrypt and read it.</p>
+<p>Eve poses as Alice and encrypts a message to Bob using Bob's public key. Bob receives the message and is able to decrypt and read it but has no way to know that Alice did not send it to him.</p>
+</div>
+<div class="section" id="signing-and-encryption">
+<h3>Signing and Encryption</h3>
+<p>Alice encrypts a message to Bob using Bob's public key and signs it using her private key. Even intercepts the message but cannot read or modify it since it is encrypted and signed. Bob receives the message, uses Alice's public key to verify that the message came from Alice, and uses his private key to decrypt the message so he can read it.</p>
+<p>Eve poses as Alice and encrypts a message to Bob using his public key. Bob receives the message and is able to decrypt it using his private key.</p>
+</div>
+<div class="section" id="multiple-recipients">
+<h3>Multiple Recipients</h3>
+<p>Alice signs a message with her private key and sends it to Bob and Charlie. Bob and Charlie are both able to use Alice's public key to verify that it came from Alice.</p>
+<p>Alice encrypts a message using both Bob's and Charlie's public keys. Both Bob and Charlie are able to decrypt the message with their own private keys.</p>
+</div>
+</div>
+<div class="section" id="signing-software">
+<h2>Signing Software</h2>
+<p>All of the examples in this article have been about signing and encrypting messages. PGP is often used to sign releases of certain software. For example, the developers of Debian publish a PGP signature for each version ISO so you can verify that the ISO was not corrupted or modified while you were downloading it.</p>
+</div>
+<div class="section" id="key-signing-web-of-trust">
+<h2>Key signing (Web of Trust)</h2>
+<p>In additions to signing files and messages, PGP keys can also be signed. For example:</p>
+<p>Alice knows that Bob's key belongs to Bob, so she signs Bob's public key. Bob knows that Charlie's key belongs to Charlie so Bob signs Charlie's public key. Since Alice's key trusts Bob's key and Bob's key trusts Charlie's key, Alice can be fairly confident that Charlie's key is trustworthy so she can trust anything signed with Charlie's key.</p>
+</div>
+
+		</div>
+	</article>
+</div>
+
+
+		<footer class="clearfix">
+			<div class="wrapper pages">
+				<ul class="nav">
+					<li><a href="http://getpelican.com/">Pelican</a></li>
+				</ul>
+			</div>
+
+			<div class="copy wrapper">
+			<ul class="social">
+				<li><a href="https://githut.com/yupyupp">GitHub</a></li>
+			</ul>
+
+			<p role="contentinfo"><a href="mailto:admin@kd8zev.net">Stephen Haffner</a><br>
+			Proudly powered by <a href="http://getpelican.com">Pelican</a> using <a href="https://github.com/kd8zev/pelican-theme-zev">pelican-theme-zev</a></p>
+			</div>
+		</footer>
+	</body>
+</html>

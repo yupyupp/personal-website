@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Stephen J. Haffner | kd8zev</title><link href="http://haffner.me/" rel="alternate"></link><link href="http://haffner.me/feeds/server.atom.xml" rel="self"></link><id>http://haffner.me/</id><updated>2014-11-02T00:00:00-04:00</updated><entry><title>Server 101</title><link href="http://haffner.me/server-101.html" rel="alternate"></link><updated>2014-11-02T00:00:00-04:00</updated><author><name>Stephen Haffner</name></author><id>tag:haffner.me,2014-11-02:server-101.html</id><summary type="html">&lt;h2&gt;Before you begin&lt;/h2&gt;
+&lt;p&gt;This guide is meant to be a set of suggestions to help point you in the right direction. I do provide some example config files but they are &lt;strong&gt;only examples&lt;/strong&gt;.
+I also mention several services that I have used and found helpful. I am not endorsing these services and encourage you to find if there is a service that suits your needs better.&lt;/p&gt;
+&lt;p&gt;This guide also makes a few assumptions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You have a machine or VPS with some sort of linux already installed&lt;/li&gt;
+&lt;li&gt;You can figure out how to &lt;a href="http://portforward.com/"&gt;forward ports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You understand that different distributions put config files in different places (This guide is based on Debian)&lt;/li&gt;
+&lt;li&gt;You know how to get around a linux system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Domain Name&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;If you don't understand what domain names are and how DNS works I suggest skimming the wikipedia article on &lt;a href="http://en.wikipedia.org/wiki/Domain_Name_System"&gt;the Domain Name System&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are two ways of getting a domain name. You can buy your own domain name for a website like &lt;a href="https://namecheap.com"&gt;NameCheap&lt;/a&gt; or &lt;a href="https://gandi.net"&gt;gandi.net&lt;/a&gt; or you can get a subdomain for free from websites like &lt;a href="https://duckdns.org"&gt;duckDNS&lt;/a&gt; or &lt;a href="noip.com"&gt;No-IP&lt;/a&gt; (You will not be able to use SSL or HTTPS with a verified SSL certificate if you are on a subdomain).&lt;/p&gt;
+&lt;h2&gt;SSH Daemon Config&lt;/h2&gt;
+&lt;p&gt;The ssh config file is usually located in /etc/ssh/sshd_config on Debian based systems.  The main thing to worry about is disabling root login. This is important to do, because logging in as root is bad practice and, more importantly, everyone will try to bruteforce into your server as user "root" (take a look at /var/log/auth.log if you don't believe me). Other ways to secure SSH are to only allow &lt;a href="https://help.ubuntu.com/community/SSH/OpenSSH/Keys"&gt;SSH key login&lt;/a&gt; and only allow certain users to login with ssh. The relevant options are below.&lt;/p&gt;
+&lt;pre&gt;
+PermitRootLogin no
+AllowUser USER
+PasswordAuthentication no # Make sure you have public key authentication set up if you do this
+&lt;/pre&gt;
+
+&lt;p&gt;Another way to secure ssh is by using &lt;a href="https://en.wikipedia.org/wiki/Fail2ban"&gt;fail2ban&lt;/a&gt;, a service that ssh login attempts and will block an IP address of someone who has failed to log into you server after a set amount of times. In Debian based systems if you install it it will set itself up and start automatically. The config files for fail2ban are usually in /etc/fail2ban/ the default options are usually fine, but it would be a good idea to read through the fil2ban man page to see if there are any other options you want to set.&lt;/p&gt;
+&lt;h2&gt;Firewall with iptables&lt;/h2&gt;
+&lt;p&gt;For some reason most Linux distributions (Debian and Ubuntu server included) ship with all ports open. Having all your ports open is pretty risky, especially if your computer if facing the open internet. The sample iptables rules below are based on &lt;a href="https://wiki.archlinux.org/index.php/Simple_stateful_firewall"&gt;this Arch Linux wiki article&lt;/a&gt; but was modified to work with fail2ban.&lt;/p&gt;
+&lt;pre&gt;
+# Sample iptables rules.
+*filter
+:INPUT DROP [0:0]
+:FORWARD DROP [0:0]
+:OUTPUT ACCEPT [0:0]
+:fail2ban-ssh - [0:0]
+:TCP - [0:0]
+:UDP - [0:0]
+-A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
+-A INPUT -i lo -j ACCEPT
+-A INPUT -p icmp -m icmp --icmp-type 8 -m conntrack --ctstate NEW -j ACCEPT
+-A INPUT -p udp -m conntrack --ctstate NEW -j UDP
+-A INPUT -p tcp -m tcp --tcp-flags FIN,SYN,RST,ACK SYN -m conntrack --ctstate NEW -j TCP
+-A INPUT -p udp -j DROP
+-A INPUT -p tcp -j DROP
+## SSH rules
+-A TCP -p tcp -m multiport --dports 22 -j fail2ban-ssh
+-A fail2ban-ssh -j RETURN
+-A TCP -p tcp -m tcp --dport 22 -j ACCEPT
+## HTTP(s) rules
+-A TCP -p tcp -m tcp --dport 80 -j ACCEPT
+-A TCP -p tcp -m tcp --dport 443 -j ACCEPT 
+COMMIT
+&lt;/pre&gt;
+
+&lt;p&gt;To open additional ports just add them to the UPD or TCP chain depending on what type of traffic you want to allow. Any IP addresses that fail2ban blocks will be added to the fail2ban-ssh chain. To use this set of rules save it in a file and use iptables-restore to load it. Depending on your system, you might need to write a script to reload the rules on boot.&lt;/p&gt;
+&lt;h2&gt;Apache and Virtual Hosts&lt;/h2&gt;
+&lt;p&gt;Apache defaults to serving content form /var/www in Debian based systems. If you want to serve different content on different domains on the same server, you will want to take a look into Apache virtual hosts. The sample vhost below will server content out of /home/apache/sites/www.sample.com/ when someone is visiting the server with the domain name sample.com or www.sample.com&lt;/p&gt;
+&lt;pre&gt;
+&amp;ltVirtualHost *:80&amp;gt
+    ServerName www.sample.com
+    ServerAlias sample.com
+    DocumentRoot /home/apache/sites/www.sample.com
+&amp;lt/VirtualHost&amp;gt
+&lt;/pre&gt;
+
+&lt;h2&gt;SSL Certificates and Related Apache config&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;There is an excellent article on how to use generate SSL certificates with StartSSL &lt;a href="http://wiki.stocksy.co.uk/wiki/Using_StartCom_%28StartSSL%29_to_Generate_valid_SSL_Certificates#Generate_a_CSR_and_Private_Key"&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Before you use ssl with Apache, you will need to make sure you have port 443 open for tcp connections and you will have to enable mod_ssl in Apache. On this site, I redirect all standard http requests to https requests with the following config that I placed on /etc/apache2/conf.d/force_ssl.conf&lt;/p&gt;
+&lt;pre&gt;
+&amp;ltVirtualHost *:80&amp;gt
+    ServerAlias *
+    RewriteEngine On
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}$1 [redirect=301]
+&amp;lt/VirtualHost&amp;gt
+&lt;/pre&gt;
+
+&lt;p&gt;Another good idea to protect the people who use you server is to prefer &lt;a href="https://en.wikipedia.org/wiki/Forward_secrecy#Perfect_forward_secrecy"&gt;Perfect Forward Secrecy (PFS)&lt;/a&gt; with the following config.&lt;/p&gt;
+&lt;pre&gt;
+SSLProtocol +TLSv1.2 +TLSv1.1 +TLSv1
+SSLCompression off
+SSLHonorCipherOrder on
+SSLCipherSuite ECDHE-RSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-RSA-RC4-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES256-SHA256:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES128-SHA256:DHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA:RC4-SHA:AES256-GCM-SHA384:AES256-SHA256:CAMELLIA256-SHA:ECDHE-RSA-AES128-SHA:AES128-GCM-SHA256:AES128-SHA256:AES128-SHA:CAMELLIA128-SHA
+Header add Strict-Transport-Security "max-age=15768000;includeSubDomains"
+&lt;/pre&gt;
+
+&lt;p&gt;After you set this option, you will have enable mod_rewrite and to modify your virtual hosts to use your SSL certificates. An example virtual host is below:&lt;/p&gt;
+&lt;pre&gt;
+&amp;ltVirtualHost *:443&amp;gt
+    ServerName sample.com
+    ServerAlias www.sample.com
+    DocumentRoot /home/apache/sites/www.sample.com
+    SSLEngine On
+    SSLCertificateFile /CA/certs/www.sample.com-startssl-cert-YYY.pem
+        SSLCertificateKeyFile /CA/keys/www.sample.com-startssl-key-YYYY-MM-DDTHH:MM:SS.pem
+        SSLCertificateChainFile /CA/startssl/sub.class1.server.ca.pem
+        SSLCACertificateFile /CA/startssl/ca.pem
+&amp;lt/VirtualHost&amp;gt
+&lt;/pre&gt;
+
+&lt;p&gt;Once you have SSL all set up on your server you can check your server with &lt;a href="https://www.ssllabs.com/ssltest/"&gt;Qualys SSL test&lt;/a&gt;. It will probably say something about having a weak signature algorithm if you use StartSSL because of the way StartSSL signs certificates for now. Hopefully StartSSL will start signing certificates with SHA256 soon.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Once you have your basic webserver setup working, it is relatively easy to set up other web-based services. If you are looking for an easy way to generate a website with static content check out &lt;a href="http://blog.getpelican.com/"&gt;pelican&lt;/a&gt;. I use pelican with &lt;a href="https://github.com/kd8zev/pelican-theme-zev"&gt;my custom theme&lt;/a&gt; to generate this site. Hope this helped to get your server set up! If you have any questions about this guide shoot an email to stephen at this domain.&lt;/p&gt;</summary></entry></feed>
