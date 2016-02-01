@@ -1,3 +1,3 @@
-output/*
-__pycache__/*
-srv.pid
+/output/*
+/__pycache__/*
+/srv.pid
